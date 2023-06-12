@@ -55,24 +55,20 @@ importlib-metadata==6.1.0
 
 Jinja2
 
-langchain==0.0.133
+langchain
 
-numpy==1.24.2
-packaging==23.0
-pandas==1.5.3
+numpy
+packaging
+pandas
 
-pickleshare==0.7.5
 pip==23.0.1
 
 pydantic
 
 
 urllib3
-validators==0.20.0
-wcwidth==0.2.6
-webcolors==1.13
-webencodings==0.5.1
-websocket-client==1.5.1
+validators
+
 wheel
 yarl
 zipp
