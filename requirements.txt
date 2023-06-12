@@ -11,7 +11,7 @@ pydantic
 
 
 uvicorn
-jinja2
+
 
 bs4
 unstructured
