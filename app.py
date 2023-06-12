@@ -11,7 +11,9 @@ from langchain.text_splitter import RecursiveCharacterTextSplitter
 import os
 
 # Load environment variables
-load_dotenv()
+
+dotenv_path = '/etc/secrets/.env'
+load_dotenv(dotenv_path)
 
 # Define the main function
 def main():
